@@ -1,0 +1,36 @@
+
+.navegador{
+    display: flex;
+}
+.navbar-text{
+    color:white;
+}
+a.nav-link{
+   color:white;
+ 
+}
+a.navbar-brand{
+    color: white;
+   
+}
+
+a.nav-link:hover{
+   color:white;
+   opacity: 0.5;
+}
+a.navbar-brand:hover{
+    color: white;
+    opacity: 0.5;
+}
+.inicio-about{
+    margin: 30px;
+}
+.figura-final{
+    display: flex;
+    justify-content: center;
+    padding: 30px 0px 30px 0px;
+}
+
+.figura-final>img{
+    width: 80vh;
+}
